@@ -65,4 +65,4 @@ andina-pokemones/
 - Inputs sanitizados y salida escapada correctamente
 
 ---
-Desarrollado para Andina Digital – Test Técnico Backend WordPress 💼
+Desarrollado por ben1998pe
